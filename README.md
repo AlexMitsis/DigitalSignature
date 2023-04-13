@@ -2,10 +2,10 @@
 This is a Python application for generating and verifying digital signatures of files using RSA encryption.
 
 ## Dependencies
-customtkinter
-rsa
-hashlib
-tkinter
+- customtkinter
+- rsa
+- hashlib
+- tkinter
 ## Usage
 1. Clone the repository to your local machine
 2. Install the dependencies using pip
