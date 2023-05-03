@@ -14,6 +14,7 @@ This is a Python application for generating and verifying digital signatures of 
 The application offers two main functionalities:
 
 **Signing**: Upload a file and a private key, and the application will generate a digital signature for the file using RSA encryption.
+
 **Verification**: Upload a file, a signature file, and a public key, and the application will verify if the signature matches the file using RSA decryption.
 ## Signing
 To sign a file:
