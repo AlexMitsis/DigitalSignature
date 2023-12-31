@@ -1,5 +1,5 @@
 # Digital Signature Tool
-This is a Python application for generating and verifying digital signatures of files using RSA encryption.
+Python application for generating and verifying digital signatures of files using RSA encryption.
 
 ## Dependencies
 - customtkinter
